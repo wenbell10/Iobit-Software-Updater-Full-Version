@@ -237,4 +237,4 @@ This repository serves as the official landing page for IObit Software Updater. 
 **Get the most recent version of IObit Software Updater today!**
 
 ---
-**Last updated:** 2026-10-26 17:47:07 UTC
+**Last updated:** 2026-10-26 22:00:19 UTC
